@@ -1,0 +1,36 @@
+body{
+    background-color: gray;
+    border: 2px solid white;
+    margin: 10 10 20px 10;
+}
+
+#name{
+text-align: center;
+color: white;
+}
+
+#para1{
+    text-align: center;
+}
+
+#Resume{
+    color:green;
+}
+
+#img1{
+     display: block; margin: 0 auto; 
+}
+
+.links{
+    color: green;
+}
+
+#about{
+    text-align: center;
+    color: white;
+}
+
+#para2{
+    text-align: center;
+    color: white;
+}
